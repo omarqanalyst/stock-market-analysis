@@ -2,6 +2,7 @@
 .vscode/
 __pycache__/
 *.log
+file_structure.txt
 
 # 🚀 Ignore API Keys & Credentials
 config.yaml
